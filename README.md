@@ -1,2 +1,9 @@
-# webpagetut
-basics
+<html>
+  <head>
+    mypage
+  </head>
+  <body>
+    <style>
+    </style>
+    </body>
+  </html>
